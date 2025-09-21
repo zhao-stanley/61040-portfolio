@@ -8,4 +8,16 @@ _My name is Stanley, I'm a junior studying 6-3._
 
 # Table of Contents
 
-[Link to Assignment 1](assignments/assignment1.md)
+[Link to Assignment 1](assignments/1.md)
+[Link to Assignment 2](assignments/2.md)
+[Link to Assignment 3](assignments/3.md)
+[Link to Assignment 4](assignments/4.md)
+[Link to Assignment 5](assignments/5.md)
+[Link to Assignment 6](assignments/6.md)
+[Link to Assignment 7](assignments/7.md)
+[Link to Assignment 8](assignments/8.md)
+
+# Link to Problem Sets
+
+[Link to Problem Set 1](pset/1.md)
+[Link to Problem Set 2](pset/2.md)
