@@ -11,7 +11,6 @@ _My name is Stanley, I'm a junior studying 6-3._
 - [Assignment 5](assignments/5.md)
 - [Assignment 6](assignments/6.md)
 - [Assignment 7](assignments/7.md)
-- [Assignment 8](assignments/8.md)
 
 # Problem Sets
 
